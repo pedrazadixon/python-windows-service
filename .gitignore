@@ -1,0 +1,6 @@
+Lib/
+dist/
+build/
+Scripts/
+pyvenv.cfg
+service.spec
